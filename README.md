@@ -5,4 +5,5 @@ assignment to practice github programmes
 - student Login
 - student Profile
 - student Dashbord
+- student location
   ```
